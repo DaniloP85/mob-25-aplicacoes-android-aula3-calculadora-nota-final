@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Calculadora de Nota</string>
+    <string name="nota_final">Calcule sua nota final</string>
+    <string name="nota_aceitavel">Sua Nota deve ser maior igual a 7</string>
+    <string name="nota_um">Primeira nota</string>
+    <string name="nota_dois">Segunda nota</string>
+    <string name="nota_tres">Terceira nota</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="feedback">Aprovado</string>
 </resources>
