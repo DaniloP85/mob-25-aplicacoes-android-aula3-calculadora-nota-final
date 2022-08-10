@@ -9,7 +9,7 @@ VersionName: "1"
 Calculando se o aluno foi aprovado ou não
 
 ![Aplicativo 1](readme_img/v1.png)
-![Aplicativo 2](readme_img/v2.png)
+![Aplicativo 2](readme_img/v1.1.png)
 
 
 # Authors
