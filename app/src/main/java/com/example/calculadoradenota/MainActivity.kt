@@ -9,6 +9,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        /*
+        * add função para calcular a nota do aluno
+        * caso a nota for maior que 7 sera apresentando em tela aprovado
+        * */
+
         btn_calcular.setOnClickListener {
             var nota1 =  input_nota_um.text.toString()
             var nota2 =  input_nota_dois.text.toString()
@@ -25,6 +30,9 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
+        /*
+        * Add função para limpar os campos e iniciar novamente os calculos
+        * */
         btn_limpar.setOnClickListener {
             resultado.visibility = TextView.INVISIBLE
             input_nota_um.setText("")
