@@ -1,6 +1,6 @@
-# mob-25-aplicacoes-android-aula3-gasolina
+# mob-25-aplicacoes-android-aula3-calculadorad
 
-# Gasolina ou álcool?
+# Calculadora de nota
 VersionCode: 1.0
 
 VersionName: "1"
