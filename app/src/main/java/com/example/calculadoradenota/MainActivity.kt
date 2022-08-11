@@ -1,10 +1,12 @@
 package com.example.calculadoradenota
+import android.annotation.SuppressLint
 import kotlinx.android.synthetic.main.activity_main.*
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {
+    @SuppressLint("SetTextI18n")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -15,9 +17,9 @@ class MainActivity : AppCompatActivity() {
         * */
 
         btn_calcular.setOnClickListener {
-            var nota1 =  input_nota_um.text.toString()
-            var nota2 =  input_nota_dois.text.toString()
-            var nota3 =  input_nota_tres.text.toString()
+            val nota1 =  input_nota_um.text.toString()
+            val nota2 =  input_nota_dois.text.toString()
+            val nota3 =  input_nota_tres.text.toString()
 
             val media = ((nota1.toInt() + nota2.toInt() + nota3.toInt())/3)
 
