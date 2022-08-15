@@ -9,9 +9,10 @@ VersionName: "1"
 Calculando se o aluno foi aprovado ou não
 
 
-| Tela 1.1     | Tela 1.2     |  Tela 1.3
-| ------------- | ------------- | ------------- |
-|![Aplicativo 1](readme_img/v1.png)|![Aplicativo 2](readme_img/v1.1.png)|![Aplicativo 2](readme_img/v1.1.1.png)
+| Tela 1.1     | Tela 1.2     |
+| ------------- | ------------- |
+|![Aplicativo 1](readme_img/v0.png)|![Aplicativo 2](readme_img/v1.png)|
+|![Aplicativo 2](readme_img/v1.1.png)|![Aplicativo 2](readme_img/v1.1.1.png)|
 
 
 # Authors
