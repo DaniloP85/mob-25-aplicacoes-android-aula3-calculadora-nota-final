@@ -1,4 +1,4 @@
-# mob-25-aplicacoes-android-aula3-calculadorad
+# mob-25-aplicacoes-android-aula3-calculadora
 
 # Calculadora de nota
 VersionCode: 1.0
@@ -6,7 +6,7 @@ VersionCode: 1.0
 VersionName: "1"
 
 # Introdução
-Calculando se o aluno foi aprovado ou não
+Calculando se o aluno foi aprovado ou não, para isso vamos solicitar que o aluno adicione 3 notas para assim aplicar o cálculo da média, onde o resultado deve ser maio que 7.
 
 
 | Tela 1.1     | Tela 1.2     |
